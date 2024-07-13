@@ -11,7 +11,7 @@ I also have some personal projects on my [personal profile](https://github.com/f
 
 - [LinkedIn](www.linkedin.com/in/françois-de-keersmaeker-11301a210)
 - [Google Scholar](https://scholar.google.com/citations?user=UrEkeo4AAAAJ)
-- [Researchgate](https://www.researchgate.net/profile/Francois-De-Keersmaeker)
+- [ResearchGate](https://www.researchgate.net/profile/Francois-De-Keersmaeker)
 - [ORCID](https://orcid.org/0000-0002-4967-4132)
 
 
